@@ -2,6 +2,7 @@
 //  BIDAppDelegate.m
 //  Control Fun
 //
+// This was written by me
 
 #import "BIDAppDelegate.h"
 
